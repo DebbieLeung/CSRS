@@ -1,5 +1,4 @@
-# CSRS-DLL:
-# A Library for Coherent Spherical Range-Search on GPUs
+# CSRS-DLL: A Library for Coherent Spherical Range-Search on GPUs
 #### Lianping Xing, Charlie C.L. Wang and Kin-Chuen Hui
 
 
